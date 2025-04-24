@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://adobe.sharepoint.com/sites/demosite98/Shared%20Documents/sites/demofolder
+    url: https://adobe.sharepoint.com/sites/demosite98/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fdemosite98%2FShared%20Documents%2Fdemofolder&viewid=4b046325%2Dc0cd%2D43f7%2D9dfe%2Df1d3925b95c2
     type: markup
 
 folders:
